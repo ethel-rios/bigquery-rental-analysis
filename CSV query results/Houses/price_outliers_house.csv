@@ -1,0 +1,39 @@
+price,no_rooms,no_bathrooms,area,neighborhood,municipality,type,cost_m2
+85000,3,3,400,Puerta de Hierro,Zapopan,House,212.5
+85000,3,4,140,Puerta de Hierro,Zapopan,House,607.142857142857
+85000,3,3,400,Puerta de Hierro,Zapopan,House,212.5
+80000,3,3,380,Puerta de Hierro,Zapopan,House,210.526315789474
+80000,4,4,400,Fraccionamiento Arauca,Zapopan,House,200.0
+80000,5,4,200,Jardines Universidad,Zapopan,House,400.0
+72000,3,3,340,Ciudad Del Sol,Zapopan,House,211.764705882353
+68000,3,2,294,Americana,Guadalajara,House,231.292517006803
+67000,3,3,333,Lomas Del Bosque,Zapopan,House,201.201201201201
+65000,3,4,296,Villa Universitaria,Zapopan,House,219.594594594595
+65000,3,4,296,Villa Universitaria,Zapopan,House,219.594594594595
+65000,4,4,157,Providencia,Guadalajara,House,414.012738853503
+60000,3,2,250,Fraccionamiento Residencial Victoria,Guadalajara,House,240.0
+60000,3,1,300,Providencia,Guadalajara,House,200.0
+60000,3,3,300,Providencia,Guadalajara,House,200.0
+60000,3,1,300,Providencia,Guadalajara,House,200.0
+60000,3,4,333,Royal Country,Zapopan,House,180.18018018018
+60000,3,4,333,Royal Country,Zapopan,House,180.18018018018
+60000,3,5,350,Valle Real,Zapopan,House,171.428571428571
+60000,3,4,281,Virreyes Residencial,Zapopan,House,213.523131672598
+60000,5,4,181,Providencia 4a Secc,Guadalajara,House,331.491712707182
+59000,3,4,349,Valle Real,Zapopan,House,169.054441260745
+59000,3,2,360,Valle Real,Zapopan,House,163.888888888889
+58000,4,2,370,Fraccionamiento Jardín Real,Zapopan,House,156.756756756757
+58000,4,5,320,Royal Country,Zapopan,House,181.25
+56000,3,3,281,Virreyes Residencial,Zapopan,House,199.288256227758
+55000,3,3,324,Condominio Puerta Plata,Zapopan,House,169.753086419753
+55000,3,4,289,Country Club,Guadalajara,House,190.311418685121
+55000,3,4,90,Fraccionamiento Bugambilias,Zapopan,House,611.111111111111
+55000,3,3,350,Puerta de Hierro,Zapopan,House,157.142857142857
+55000,3,3,333,Royal Country,Zapopan,House,165.165165165165
+55000,3,3,300,Valle Real,Zapopan,House,183.333333333333
+55000,3,5,328,Valle Real,Zapopan,House,167.682926829268
+55000,3,4,300,Valle Real,Zapopan,House,183.333333333333
+55000,3,3,245,Valle Real,Zapopan,House,224.489795918367
+55000,3,4,329,Valle Real,Zapopan,House,167.173252279635
+55000,3,2,245,Valle Real,Zapopan,House,224.489795918367
+55000,4,4,333,Royal Country,Zapopan,House,165.165165165165

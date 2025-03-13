@@ -1,0 +1,101 @@
+price,no_rooms,no_bathrooms,area,neighborhood,municipality,type,cost_m2
+49900,3,2,400,Cielo Contry Club,Tlajomulco de Zúñiga,House,124.75
+85000,3,3,400,Puerta de Hierro,Zapopan,House,212.5
+85000,3,3,400,Puerta de Hierro,Zapopan,House,212.5
+38000,3,2,400,Rancho Contento,Zapopan,House,95.0
+45000,3,2,400,Villa Universitaria,Zapopan,House,112.5
+45000,3,2,400,Villa Universitaria,Zapopan,House,112.5
+50000,3,3,400,Villa Universitaria,Zapopan,House,125.0
+40000,4,2,400,Americana,Guadalajara,House,100.0
+40000,4,2,400,Americana,Guadalajara,House,100.0
+80000,4,4,400,Fraccionamiento Arauca,Zapopan,House,200.0
+35000,5,5,400,Jardines Universidad,Zapopan,House,87.5
+49000,4,4,398,San Wenceslao,Zapopan,House,123.115577889447
+45000,4,4,389,Providencia,Guadalajara,House,115.681233933162
+45000,4,4,389,Providencia,Guadalajara,House,115.681233933162
+80000,3,3,380,Puerta de Hierro,Zapopan,House,210.526315789474
+25000,4,3,375,Juan Manuel Vallarta,Zapopan,House,66.6666666666667
+25000,4,3,375,Juan Manuel Vallarta,Zapopan,House,66.6666666666667
+38000,4,3,373,San Wenceslao,Zapopan,House,101.876675603217
+58000,4,2,370,Fraccionamiento Jardín Real,Zapopan,House,156.756756756757
+28000,5,4,369,Fraccionamiento Bugambilias,Zapopan,House,75.8807588075881
+28000,5,2,369,Fraccionamiento Bugambilias,Zapopan,House,75.8807588075881
+45000,1,3,364,Fraccionamiento Arauca,Zapopan,House,123.626373626374
+45000,1,3,364,Fraccionamiento Arauca,Zapopan,House,123.626373626374
+59000,3,2,360,Valle Real,Zapopan,House,163.888888888889
+46500,3,4,360,Valle Real,Zapopan,House,129.166666666667
+19000,4,2,357,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,53.2212885154062
+32000,4,3,357,Fraccionamiento Bugambilias,Zapopan,House,89.6358543417367
+35000,3,4,355,El Palomar,Tlajomulco de Zúñiga,House,98.5915492957746
+53000,4,5,351,Providencia Sur,Guadalajara,House,150.997150997151
+24000,2,4,350,Colinas de Santa Anita,Tlajomulco de Zúñiga,House,68.5714285714286
+24000,2,4,350,Colinas de Santa Anita,Tlajomulco de Zúñiga,House,68.5714285714286
+55000,3,3,350,Puerta de Hierro,Zapopan,House,157.142857142857
+60000,3,5,350,Valle Real,Zapopan,House,171.428571428571
+33600,4,3,350,Ciudad Del Sol,Zapopan,House,96.0
+40000,4,2,350,Conjunto habitacional Patria,Zapopan,House,114.285714285714
+45000,4,4,350,Providencia,Guadalajara,House,128.571428571429
+59000,3,4,349,Valle Real,Zapopan,House,169.054441260745
+47000,4,3,347,El Bajío,Zapopan,House,135.446685878963
+72000,3,3,340,Ciudad Del Sol,Zapopan,House,211.764705882353
+40000,3,3,338,Fraccionamiento Bugambilias,Zapopan,House,118.343195266272
+67000,3,3,333,Lomas Del Bosque,Zapopan,House,201.201201201201
+55000,3,3,333,Royal Country,Zapopan,House,165.165165165165
+60000,3,4,333,Royal Country,Zapopan,House,180.18018018018
+60000,3,4,333,Royal Country,Zapopan,House,180.18018018018
+55000,4,4,333,Royal Country,Zapopan,House,165.165165165165
+35000,4,4,330,Ciudad Bugambilia,Zapopan,House,106.060606060606
+35000,4,3,330,Ciudad Bugambilia,Zapopan,House,106.060606060606
+55000,3,4,329,Valle Real,Zapopan,House,167.173252279635
+55000,3,5,328,Valle Real,Zapopan,House,167.682926829268
+55000,3,3,324,Condominio Puerta Plata,Zapopan,House,169.753086419753
+50000,3,3,322,Puerta de Hierro,Zapopan,House,155.27950310559
+37000,4,3,320,Fraccionamiento Vallarta Norte,Guadalajara,House,115.625
+58000,4,5,320,Royal Country,Zapopan,House,181.25
+35000,4,3,320,Vallarta Universidad,Zapopan,House,109.375
+21000,4,4,319,Casa Fuerte,Tlajomulco de Zúñiga,House,65.8307210031348
+21000,4,4,319,Casa Fuerte,Tlajomulco de Zúñiga,House,65.8307210031348
+28000,5,3,318,Vallarta Poniente,Guadalajara,House,88.0503144654088
+41300,3,5,315,Fraccionamiento Jardín Real,Zapopan,House,131.111111111111
+24000,3,2,315,San Agustín,Tlajomulco de Zúñiga,House,76.1904761904762
+45000,4,2,310,Chapalita Oriente,Zapopan,House,145.161290322581
+24000,4,2,310,Fraccionamiento Jardines de Guadalupe,Zapopan,House,77.4193548387097
+25000,4,2,306,Arcos Vallarta,Guadalajara,House,81.6993464052288
+20000,4,2,306,Fraccionamiento Jardín Real,Zapopan,House,65.359477124183
+38000,3,4,305,Residencial Provenza,Tlajomulco de Zúñiga,House,124.590163934426
+38000,3,3,305,Residencial Provenza,Tlajomulco de Zúñiga,House,124.590163934426
+38000,3,4,305,Residencial Provenza,Tlajomulco de Zúñiga,House,124.590163934426
+46000,3,4,301,Valle Real,Zapopan,House,152.823920265781
+19800,3,2,300,Altamira,Zapopan,House,66.0
+42000,3,2,300,Ciudad Granja,Zapopan,House,140.0
+50000,3,4,300,Ciudad Granja,Zapopan,House,166.666666666667
+50000,3,2,300,Ciudad de los niños,Zapopan,House,166.666666666667
+25000,3,3,300,El Palomar,Tlajomulco de Zúñiga,House,83.3333333333333
+25000,3,3,300,El Palomar,Tlajomulco de Zúñiga,House,83.3333333333333
+42000,3,3,300,Fraccionamiento Puerta del Valle,Zapopan,House,140.0
+35000,3,3,300,Fraccionamiento Rinconada de los Novelistas,Zapopan,House,116.666666666667
+31000,3,3,300,Fraccionamiento Rinconada de los Novelistas,Zapopan,House,103.333333333333
+35000,3,3,300,Fraccionamiento Vallarta Norte,Guadalajara,House,116.666666666667
+60000,3,1,300,Providencia,Guadalajara,House,200.0
+60000,3,3,300,Providencia,Guadalajara,House,200.0
+60000,3,1,300,Providencia,Guadalajara,House,200.0
+54000,3,3,300,Puerta de Hierro,Zapopan,House,180.0
+35000,3,2,300,Rancho o rancheria San Jose Del Tajo,Tlajomulco de Zúñiga,House,116.666666666667
+55000,3,3,300,Valle Real,Zapopan,House,183.333333333333
+45500,3,4,300,Valle Real,Zapopan,House,151.666666666667
+55000,3,4,300,Valle Real,Zapopan,House,183.333333333333
+45000,3,3,300,Valle Real,Zapopan,House,150.0
+45200,3,4,300,Villa Universitaria,Zapopan,House,150.666666666667
+45200,3,4,300,Villa Universitaria,Zapopan,House,150.666666666667
+50000,3,2,300,Villa Universitaria,Zapopan,House,166.666666666667
+45000,4,5,300,Altamira,Zapopan,House,150.0
+38000,4,4,300,Ciudad Bugambilia,Zapopan,House,126.666666666667
+38000,4,4,300,Ciudad Bugambilia,Zapopan,House,126.666666666667
+30200,4,2,300,Ciudad Del Sol,Zapopan,House,100.666666666667
+50000,4,4,300,Ciudad de los niños,Zapopan,House,166.666666666667
+45000,4,2,300,Condominio Atlas Colomos,Zapopan,House,150.0
+24000,4,4,300,Fraccionamiento Camino Real,Zapopan,House,80.0
+21000,4,3,300,Fraccionamiento Jardines Del Country,Guadalajara,House,70.0
+21000,4,3,300,Fraccionamiento Jardines Del Country,Guadalajara,House,70.0
+53000,4,4,300,Fraccionamiento Los Olivos Residencial,Zapopan,House,176.666666666667
+35000,5,2,300,Fraccionamiento Vallarta Norte,Guadalajara,House,116.666666666667
