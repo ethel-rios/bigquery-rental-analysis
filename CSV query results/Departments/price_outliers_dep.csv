@@ -1,0 +1,53 @@
+price,no_rooms,no_bathrooms,area,neighborhood,municipality,type,cost_m2
+90000,2,1,94,Puerta de Hierro,Zapopan,Department,957.446808510638
+90000,2,1,334,Valle Real,Zapopan,Department,269.461077844311
+90000,3,4,346,Puerta de Hierro,Zapopan,Department,260.115606936416
+90000,3,3,253,Puerta de Hierro,Zapopan,Department,355.731225296443
+90000,3,4,302,Puerta de Hierro,Zapopan,Department,298.013245033113
+90000,4,4,333,Valle Real,Zapopan,Department,270.27027027027
+90000,4,3,334,Valle Real,Zapopan,Department,269.461077844311
+90000,4,5,334,Valle Real,Zapopan,Department,269.461077844311
+85000,3,3,332,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,256.024096385542
+85000,3,2,328,Puerta de Hierro,Zapopan,Department,259.146341463415
+80000,4,4,333,Valle Real,Zapopan,Department,240.24024024024
+78000,3,4,258,Puerta de Hierro,Zapopan,Department,302.325581395349
+75000,2,1,200,Puerta de Hierro,Zapopan,Department,375.0
+75000,3,3,300,Virreyes Residencial,Zapopan,Department,250.0
+73000,3,2,157,Condominio Puerta Plata,Zapopan,Department,464.968152866242
+70000,2,2,180,Puerta de Hierro,Zapopan,Department,388.888888888889
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+69000,3,4,300,Fraccionamiento Cumbres,Zapopan,Department,230.0
+68600,2,2,140,Puerta de Hierro,Zapopan,Department,490.0
+68600,2,2,140,Puerta de Hierro,Zapopan,Department,490.0
+68600,2,2,140,Puerta de Hierro,Zapopan,Department,490.0
+65000,2,2,67,Condominio Puerta Plata,Zapopan,Department,970.149253731343
+65000,3,2,230,Country Club,Guadalajara,Department,282.608695652174
+65000,3,2,240,Country Club,Guadalajara,Department,270.833333333333
+65000,3,4,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+65000,3,2,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+65000,3,4,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+65000,3,4,220,Puerta de Hierro,Zapopan,Department,295.454545454545
+65000,3,4,172,Puerta de Hierro,Zapopan,Department,377.906976744186
+61700,1,1,293,Providencia,Guadalajara,Department,210.580204778157
+60000,2,5,120,Bosques de La Victoria,Guadalajara,Department,500.0
+60000,2,2,143,Puerta de Hierro,Zapopan,Department,419.58041958042
+60000,2,2,143,Puerta de Hierro,Zapopan,Department,419.58041958042
+60000,3,3,385,Country Club,Guadalajara,Department,155.844155844156
+59500,3,3,296,Puerta de Hierro,Zapopan,Department,201.013513513514
+59500,3,3,296,Puerta de Hierro,Zapopan,Department,201.013513513514
+59500,3,3,296,Puerta de Hierro,Zapopan,Department,201.013513513514
+59000,3,3,330,Puerta de Hierro,Zapopan,Department,178.787878787879
+59000,3,3,330,Puerta de Hierro,Zapopan,Department,178.787878787879
+59000,3,2,180,Puerta de Hierro,Zapopan,Department,327.777777777778
+59000,3,3,180,Puerta de Hierro,Zapopan,Department,327.777777777778
+59000,3,2,180,Puerta de Hierro,Zapopan,Department,327.777777777778
+58500,3,3,300,Providencia,Guadalajara,Department,195.0
+56000,1,1,170,Puerta de Hierro,Zapopan,Department,329.411764705882
+56000,3,4,184,Puerta de Hierro,Zapopan,Department,304.347826086957
+55000,3,3,240,Fraccionamiento Country Club,Guadalajara,Department,229.166666666667
+55000,3,3,309,Puerta de Hierro,Zapopan,Department,177.993527508091
+55000,3,4,309,Puerta de Hierro,Zapopan,Department,177.993527508091
+55000,3,3,333,Royal Country,Zapopan,Department,165.165165165165
+55000,3,2,215,Valle Real,Zapopan,Department,255.813953488372

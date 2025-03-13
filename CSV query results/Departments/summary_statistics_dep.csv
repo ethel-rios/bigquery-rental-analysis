@@ -1,0 +1,5 @@
+municipality,avg_price,avg_area,avg_rooms,avg_bathrooms,min_price,max_price,min_area,max_area
+Zapopan,29008.85,125.3,2.0,2.0,2950,90000,20,362
+Guadalajara,26387.01,112.41,2.0,2.0,6000,85000,36,390
+Tlajomulco de Zúñiga,15714.29,94.0,2.0,2.0,4500,23000,60,200
+Tonalá,6888.89,82.67,2.0,2.0,6000,8000,48,130

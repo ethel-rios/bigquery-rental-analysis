@@ -1,0 +1,34 @@
+price,no_rooms,no_bathrooms,area,neighborhood,municipality,type,cost_m2
+44000,3,2,390,Fraccionamiento Vallarta Norte,Guadalajara,Department,112.820512820513
+44000,3,3,390,Fraccionamiento Vallarta Norte,Guadalajara,Department,112.820512820513
+60000,3,3,385,Country Club,Guadalajara,Department,155.844155844156
+65000,3,4,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+65000,3,2,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+65000,3,4,362,Lomas Del Bosque,Zapopan,Department,179.558011049724
+34000,3,4,350,Fraccionamiento Solares,Zapopan,Department,97.1428571428571
+90000,3,4,346,Puerta de Hierro,Zapopan,Department,260.115606936416
+90000,2,1,334,Valle Real,Zapopan,Department,269.461077844311
+90000,4,3,334,Valle Real,Zapopan,Department,269.461077844311
+90000,4,5,334,Valle Real,Zapopan,Department,269.461077844311
+55000,3,3,333,Royal Country,Zapopan,Department,165.165165165165
+80000,4,4,333,Valle Real,Zapopan,Department,240.24024024024
+90000,4,4,333,Valle Real,Zapopan,Department,270.27027027027
+85000,3,3,332,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,256.024096385542
+59000,3,3,330,Puerta de Hierro,Zapopan,Department,178.787878787879
+59000,3,3,330,Puerta de Hierro,Zapopan,Department,178.787878787879
+45000,2,2,328,Valle Real,Zapopan,Department,137.19512195122
+85000,3,2,328,Puerta de Hierro,Zapopan,Department,259.146341463415
+47000,3,3,310,Puerta de Hierro,Zapopan,Department,151.612903225806
+47000,3,3,310,Puerta de Hierro,Zapopan,Department,151.612903225806
+55000,3,3,309,Puerta de Hierro,Zapopan,Department,177.993527508091
+55000,3,4,309,Puerta de Hierro,Zapopan,Department,177.993527508091
+90000,3,4,302,Puerta de Hierro,Zapopan,Department,298.013245033113
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+70000,4,5,301,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,232.558139534884
+35000,2,1,300,Puerta de Hierro,Zapopan,Department,116.666666666667
+69000,3,4,300,Fraccionamiento Cumbres,Zapopan,Department,230.0
+45000,3,3,300,Fraccionamiento Monraz,Guadalajara,Department,150.0
+45000,3,3,300,Fraccionamiento Monraz,Guadalajara,Department,150.0
+58500,3,3,300,Providencia,Guadalajara,Department,195.0
+75000,3,3,300,Virreyes Residencial,Zapopan,Department,250.0
