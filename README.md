@@ -78,7 +78,7 @@ The process will follow these steps:
 ## In this GitHub repository, you will find two main folders:
 
 **Queries:**
-   - This folder contains the SQL queries used for data analysis. Each file includes the SQL code applied to the rental dataset, which covers various aspects such as data cleaning, descriptive statistics, outlier detection, and more.
+   - This folder contains the SQL queries used for data analysis on the rental dataset. The queries are organized into separate subfolders for houses and apartments, each containing the relevant SQL code applied to analyze the respective property type.
 
 **Results:**
    - This folder contains the results generated from running the SQL queries. All outputs are presented in tables, providing a clear and organized format that showcases the findings and insights from the analysis.
