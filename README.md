@@ -82,4 +82,5 @@ The process will follow these steps:
 
 **Results:**
    - This folder includes the outputs generated from running the SQL queries. It provides the results in a clear and organized format, such as tables or reports, to help visualize the findings and insights from the analysis.
+
 Feel free to explore both folders to understand the analysis process and the results derived from the rental data.
