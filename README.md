@@ -57,20 +57,20 @@ This dataset was obtained from their published paper, "Exploring the Rental Mark
 
 ## Process Phase
 
-For the dataset analysis, I will use **R** because it offers a powerful and flexible environment for statistical analysis, handling large datasets and creating insightful visualizations.
+For the dataset analysis, I will use **SQL** as it is an efficient tool for analyzing large datasets and extracting meaningful insightsto support data-driven decision-making.
 
 The process will follow these steps:
 
-1. **Data Cleaning & Standardization**  
-   - Standardize and rename columns (lowercase, underscores instead of spaces).
-   - Ensure correct data types (convert price, area, and numerical columns if necessary).
-   - Handle missing values and duplicates.
+1. **Data Overview and Structure**  
+   - View Table Structure
+   - Overview of Total Rental Records, Municipalities, and Property Types
+   - Check for missing values
 
-2. **Detect & Resolve Data Inconsistencies**  
-   - Identify unrealistic values (e.g., negative prices, extreme areas and prices, incorrect room counts).
-   - Outlier detection: Use boxplots to identify extreme values.
+2. **Outlier Detection**  
+   - Identify Outliers in Price and Area
 
 3. **Exploratory Data Analysis (EDA)**  
-   - Visualize distributions: Pie charts, histograms, and bar charts.
-   - Summary statistics: Mean, median for rent price, area, rooms, and bathrooms.
-   - Analyze relationships: Scatter plots, correlation matrix, and ANOVA test.
+   - Summary Statistics
+   - Most and Least Expensive Municipality by Property Type (House vs. Apartment)
+   - ANOVA Test
+   - Correlation Analysis
