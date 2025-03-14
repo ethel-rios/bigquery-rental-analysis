@@ -79,6 +79,7 @@ The process will follow these steps:
 
 **Queries:**
    - This folder contains the SQL queries used for data analysis. Each file includes the SQL code applied to the rental dataset, which covers various aspects such as data cleaning, descriptive statistics, outlier detection, and more.
+
 **Results:**
    - This folder includes the outputs generated from running the SQL queries. It provides the results in a clear and organized format, such as tables or reports, to help visualize the findings and insights from the analysis.
 Feel free to explore both folders to understand the analysis process and the results derived from the rental data.
