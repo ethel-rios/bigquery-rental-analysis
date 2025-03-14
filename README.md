@@ -75,10 +75,13 @@ The process will follow these steps:
    - ANOVA Test
    - Correlation Analysis
 
-## In this GitHub repository, you will find two main folders:
+## In this GitHub repository, you will find three main folders:
 
+**Data:**
+   - This folder contains the raw data file, "_RentData.csv_," along with the cleaned data file, "_RentDC.csv_". The cleaned data was generated through analysis and data processing in R. To view the R analysis project, click this link:
+     
 **Queries:**
-   - This folder contains the SQL queries used for data analysis on the rental dataset. The queries are organized into separate subfolders for houses and apartments, each containing the relevant SQL code applied to analyze the respective property type.
+   - This folder contains the SQL queries used for data analysis on the rental dataset. The queries are organized into separate subfolders for _houses_ and _departments_, each containing the relevant SQL code applied to analyze the respective property type.
 
 **Results:**
    - This folder contains the results generated from running the SQL queries. All outputs are presented in tables, providing a clear and organized format that showcases the findings and insights from the analysis.
