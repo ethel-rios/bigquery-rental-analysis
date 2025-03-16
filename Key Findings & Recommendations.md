@@ -1,4 +1,4 @@
-## Conclusion
+## Key Findings
 
 ### Rental Prices Distribution Across Municipalities
 
