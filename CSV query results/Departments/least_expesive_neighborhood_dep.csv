@@ -1,11 +1,13 @@
-municipality,neighborhood,avg_price
-Zapopan,El Mante,2950.0
-Tlajomulco de Zúñiga,San Agustín,4500.0
-Zapopan,Jardines Tepeyac,4930.0
-Zapopan,San Bernardo,5000.0
-Zapopan,Fraccionamiento Parques de Tesistán,5100.0
-Tonalá,Colinas de Tonalá,6000.0
-Guadalajara,Santa María de Silo,6000.0
-Guadalajara,Reforma Centro,6200.0
-Tonalá,Mirador ,6500.0
-Tonalá,Ciudad AztlAn,7000.0
+rank_least,municipality,neighborhood,avg_price
+1,Zapopan,El Mante,2950.0
+2,Tlajomulco de Zúñiga,San Agustín,4500.0
+3,Zapopan,Jardines Tepeyac,4930.0
+4,Zapopan,San Bernardo,5000.0
+5,Zapopan,Fraccionamiento Parques de Tesistán,5100.0
+6,Tonalá,Colinas de Tonalá,6000.0
+6,Guadalajara,Santa María de Silo,6000.0
+7,Guadalajara,Reforma Centro,6200.0
+8,Tonalá,Mirador ,6500.0
+9,Guadalajara,TetlAn,7000.0
+9,Tonalá,Ciudad AztlAn,7000.0
+10,Zapopan,Fraccionamiento Residencial Victoria,7799.0
