@@ -1,12 +1,11 @@
-## Key Findings
+## Key Insights
 
 ### Rental Prices Distribution Across Municipalities
 
 Rental prices vary significantly across different municipalities in the metropolitan area:
 
-- Zapopan and Guadalajara have the highest price ranges for both houses and departments, featuring a mix of both mid-range and high-end properties.
-Tlajomulco de Zúñiga and Tonalá have lower and more concentrated price distributions, making them more affordable areas.
-Limited data in Tlajomulco de Zúñiga and Tonalá suggests that further data collection is necessary to confirm these trends.
+- Zapopan and Guadalajara exhibit the highest rental price ranges for both houses and apartments, reflecting a diverse market that includes mid-range and high-end properties. This trend is likely influenced by strong economic activity, the presence of key business hubs, and access to high-quality infrastructure, services, and lifestyle offerings.
+- Tlajomulco de Zúñiga and Tonalá have lower and more concentrated price distributions, making them more affordable areas. Limited data in Tlajomulco de Zúñiga and Tonalá suggests that further data collection is necessary to confirm these trends.
 
 ### Most Influential Factors Affecting Rental Prices
 
