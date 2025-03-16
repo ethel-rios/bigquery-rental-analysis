@@ -14,11 +14,12 @@ The factors that influence the rent prices the most are the neighborhood and pro
 
 - **Correlation Analysis:** A correlation matrix revealed that property area (m²) plays a significant role in rental pricing, but the strength of this relationship varies across locations: Zapopan and Tlajomulco de Zúñiga show the strongest correlation between area and price, meaning larger properties tend to have higher rents. Guadalajara exhibits a moderate correlation. Tonalá has the weakest correlation, nevertheless further analysis is required to validate this finding.
   
-![Correlation Matrix](https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb) ![Price vs Area](https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1)
-
-
+![Correlation Matrix](https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb)
+![Price vs Area](https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1)
   
 - **Average Price by neighborhood:** Zapopan and Guadalajara exhibit significant price variation, with some neighborhoods offering high-end properties and others providing more affordable options, reflecting a diverse rental market. In contrast, Tonalá and Tlajomulco offer more budget-friendly housing options, with lower average rental prices and costs per m². This shows how the location within each municipality, as well as proximity to desirable amenities, can dramatically influence rent levels, making the neighborhood a key factor in pricing.
+![price_houses](https://github.com/user-attachments/assets/b7b98ecf-bb7c-4fd2-a88a-1da548c7898c)
+![price_dep](https://github.com/user-attachments/assets/42001125-6817-448d-805c-b48df4e84c09)
 
 
 ### Variability in Neighborhood Pricing
