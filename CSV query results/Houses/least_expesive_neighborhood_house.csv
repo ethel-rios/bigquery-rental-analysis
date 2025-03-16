@@ -1,11 +1,14 @@
-municipality,neighborhood,avg_price
-Zapopan,Copalita,5000.0
-Zapopan,Fraccionamiento Hacienda las Palomas,5000.0
-Tlajomulco de Zúñiga,Lomas de San Agustin,5500.0
-Zapopan,Fraccionamiento Los Molinos,5800.0
-Tonalá,Hacienda Del Real,5800.0
-Zapopan,Fraccionamiento Palermo,6100.0
-Zapopan,Las Agujas,6500.0
-Tlajomulco de Zúñiga,Hacienda Santa Cruz,6500.0
-Tonalá,El Moral,6550.0
-Tlajomulco de Zúñiga,Alameda,7000.0
+rank_least,municipality,neighborhood,avg_price
+1,Zapopan,Fraccionamiento Hacienda las Palomas,5000.0
+1,Zapopan,Copalita,5000.0
+2,Tlajomulco de Zúñiga,Lomas de San Agustin,5500.0
+3,Tonalá,Hacienda Del Real,5800.0
+3,Zapopan,Fraccionamiento Los Molinos,5800.0
+4,Zapopan,Fraccionamiento Palermo,6100.0
+5,Tlajomulco de Zúñiga,Hacienda Santa Cruz,6500.0
+5,Zapopan,Las Agujas,6500.0
+6,Tonalá,El Moral,6550.0
+7,Tlajomulco de Zúñiga,Alameda,7000.0
+8,Zapopan,Fraccionamiento Residencial Amaranto,7450.0
+9,Guadalajara,Circunvalación Oblatos,7500.0
+10,Tlajomulco de Zúñiga,Belcanto,7700.0
