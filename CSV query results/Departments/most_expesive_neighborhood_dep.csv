@@ -1,11 +1,12 @@
-municipality,neighborhood,avg_price
-Zapopan,Fraccionamiento Cumbres,69000.0
-Zapopan,Condominio Puerta Plata,69000.0
-Zapopan,Lomas Del Bosque,65000.0
-Guadalajara,Fraccionamiento Vallarta San Jorge,56428.57
-Zapopan,Royal Country,55000.0
-Zapopan,Puerta de Hierro,49085.71
-Zapopan,Santa Margarita Residencial,45000.0
-Guadalajara,Fraccionamiento Vallarta Norte,44000.0
-Guadalajara,Vallarta Sur,36666.67
-Guadalajara,Fraccionamiento Monraz,36166.67
+rank_least,municipality,neighborhood,avg_price
+1,Zapopan,Condominio Puerta Plata,69000.0
+1,Zapopan,Fraccionamiento Cumbres,69000.0
+2,Zapopan,Lomas Del Bosque,65000.0
+3,Guadalajara,Fraccionamiento Vallarta San Jorge,56428.57
+4,Zapopan,Royal Country,55000.0
+5,Zapopan,Puerta de Hierro,49085.71
+6,Zapopan,Santa Margarita Residencial,45000.0
+7,Guadalajara,Fraccionamiento Vallarta Norte,44000.0
+8,Guadalajara,Vallarta Sur,36666.67
+9,Guadalajara,Fraccionamiento Monraz,36166.67
+10,Guadalajara,Prados de Providencia,35210.91
