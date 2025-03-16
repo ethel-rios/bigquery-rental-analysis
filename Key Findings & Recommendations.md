@@ -14,8 +14,7 @@ The factors that influence the rent prices the most are the neighborhood and pro
 
 - **Correlation Analysis:** A correlation matrix revealed that property area (m²) plays a significant role in rental pricing, but the strength of this relationship varies across locations: Zapopan and Tlajomulco de Zúñiga show the strongest correlation between area and price, meaning larger properties tend to have higher rents. Guadalajara exhibits a moderate correlation. Tonalá has the weakest correlation, nevertheless further analysis is required to validate this finding.
   
-![Correlation Matrix](https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb)
-![Price vs Area](https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1)
+![Correlation Matrix](https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb) ![Price vs Area](https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1)
 
 
   
