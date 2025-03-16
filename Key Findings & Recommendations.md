@@ -20,7 +20,8 @@ The factors that influence the rent prices the most are the neighborhood and pro
 ### Variability in Neighborhood Pricing
 
 - **ANOVA Test Results:** The ANOVA results demonstrate that neighborhood is a key factor influencing rental prices in these municipalities. The strong statistical significance suggests that understanding neighborhood-level price variation is crucial for analyzing and predicting rental prices. However, the extreme results in Tonalá warrant further investigation to ensure data quality and avoid misinterpretation.
-![Summary of findings.jpg](attachment:8ec987e1-b136-4bfc-9ecd-786828455748.jpg)
+![ANOVA Summary](https://github.com/user-attachments/assets/622c4686-d664-4e39-aab7-aa20b32a4783)
+
 
 ## Recommendations for Further Analysis:
 
