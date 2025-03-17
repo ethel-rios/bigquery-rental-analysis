@@ -118,13 +118,6 @@ This analysis is conducted using **BigQuery**, leveraging SQL for **data cleanin
 📂 **Results**  
 - Contains **outputs from SQL queries**, showcasing findings in structured tables.  
 
----
-
-## 🚀 Next Steps  
-
-🔹 **Expand dataset coverage** for Tlajomulco & Tonalá.  
-🔹 **Build a predictive model** to estimate rental prices.  
-🔹 **Compare rental trends over time** to track market shifts.  
 
 ---
 
