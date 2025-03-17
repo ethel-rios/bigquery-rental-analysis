@@ -16,14 +16,15 @@ Rental prices show notable variation across the municipalities in the Guadalajar
 - **Correlation Analysis:**  
    A correlation matrix revealed that **property area** plays a significant role in rental pricing, with stronger correlations observed in **Zapopan** and **Tlajomulco de Zúñiga**, meaning larger properties tend to have higher rents. **Guadalajara** shows moderate correlation, while **Tonalá** has the weakest correlation. Further analysis is needed to validate these findings in Tonalá.
 
-   <img src="https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb" width="500" />
-   <img src="https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1" width="500" />
+  ![Correlation Matrix](https://github.com/user-attachments/assets/fdfc88e2-55c2-4181-b9e1-014bec70b6bb)  
+   ![Price vs Area](https://github.com/user-attachments/assets/8f233e85-912e-4e3e-9cbb-91fb3bbb6ab1)
 
 - **Average Price by Neighborhood:**  
    **Zapopan** and **Guadalajara** display significant price variation, with neighborhoods offering both high-end and more affordable properties, reflecting a diverse rental market. In contrast, **Tonalá** and **Tlajomulco** show more budget-friendly options with lower average rental prices and costs per m², indicating that **location** and **proximity to amenities** are crucial factors influencing prices.
 
-   ![Price Houses](https://github.com/user-attachments/assets/b7b98ecf-bb7c-4fd2-a88a-1da548c7898c)  
-   ![Price Apartments](https://github.com/user-attachments/assets/42001125-6817-448d-805c-b48df4e84c09)
+  <img src="https://github.com/user-attachments/assets/b7b98ecf-bb7c-4fd2-a88a-1da548c7898c" width="500" />
+<img src="https://github.com/user-attachments/assets/42001125-6817-448d-805c-b48df4e84c09" width="500" />
+
 
 ---
 
