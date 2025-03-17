@@ -10,7 +10,7 @@ The **Guadalajara Metropolitan Area** is one of Mexico’s most dynamic real est
 
 This project leverages **SQL** to analyze a **cleaned dataset** of rental properties, identifying key trends, price distributions, and anomalies across different municipalities and neighborhoods.  
 
-⚠ **Data Distribution:**  
+**Data Distribution:**  
 - **Zapopan (56.51%) & Guadalajara (31.16%)** → Well-represented  
 - **Tlajomulco (11.69%) & Tonalá (0.64%)** → Underrepresented  
 
