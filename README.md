@@ -39,27 +39,27 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ## ❓ Key Questions  
 
-- 📍 How do **rental prices vary** across municipalities?  
-- 📏 What **property factors** impact pricing the most?  
-- 🏘 Are there **significant price differences** between neighborhoods?  
-- 🚩 Do **outliers** indicate anomalies or luxury listings?  
+- How do **rental prices vary** across municipalities?  
+- What **property factors** impact pricing the most?  
+- Are there **significant price differences** between neighborhoods?  
+- Do **outliers** indicate anomalies or luxury listings?  
 
 ---
 
 ## 📊 Key Metrics  
 
 📌 **Price Analysis**  
-- 📈 **Min-Max Price Range** (municipality & neighborhood)  
-- 💰 **Average Rental Price** (municipality)  
+-  **Min-Max Price Range** (municipality & neighborhood)  
+-  **Average Rental Price** (municipality)  
 
 📌 **Property Characteristics**  
-- 📐 **Average Area (m²)** (municipality & neighborhood)  
-- 🏠 **Average Number of Rooms & Bathrooms**  
+-  **Average Area (m²)** (municipality & neighborhood)  
+-  **Average Number of Rooms & Bathrooms**  
 
 📌 **Statistical Insights**  
-- 🔗 **Correlation**: Price vs. Area (m²), Rooms, and Bathrooms  
-- 📊 **ANOVA Test**: Price vs. Neighborhood  
-- 🚩 **Outlier Detection**: Unusual rental prices  
+-  **Correlation**: Price vs. Area (m²), Rooms, and Bathrooms  
+-  **ANOVA Test**: Price vs. Neighborhood  
+-  **Outlier Detection**: Unusual rental prices  
 
 ---
 
