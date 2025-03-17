@@ -36,20 +36,11 @@ Rental prices show notable variation across the municipalities in the Guadalajar
 
 ---
 
-## 📝 Recommendations for Further Analysis
-
-#### 📊 Expanding the Dataset for Better Municipality Representation
-
-One limitation of the analysis is the **underrepresentation** of **Tonalá** and **Tlajomulco de Zúñiga**. Expanding the dataset would provide the following benefits:
-
-- **Improved Statistical Reliability:** A larger sample size will provide more reliable conclusions on rental trends across all municipalities.
-- **Enhanced Neighborhood-Level Insights:** More data from underrepresented areas will refine the understanding of price variations within different neighborhoods.
-- **Increased Model Accuracy:** More balanced data will enhance the performance of predictive models, leading to more accurate rental price estimations.
-
----
-
 ## 🚀 Next Steps
 
-🔹 **Expand dataset coverage** to improve representation of **Tonalá** and **Tlajomulco**.  
-🔹 **Develop a predictive model** to estimate rental prices more effectively.  
-🔹 **Track rental price trends over time** to monitor shifts in the market.
+To build on the current analysis and maximize its potential, consider implementing the following next steps:
+
+- **Expand Data Collection:** Focus on acquiring additional rental data for **Tonalá** and **Tlajomulco de Zúñiga** to create a more comprehensive dataset.
+- **Develop Predictive Models:** Build machine learning models, such as regression or decision trees, to predict rental prices based on key features like neighborhood, property size, and number of rooms.
+- **Analyze Temporal Trends:** Investigate how rental prices evolve over time by integrating temporal data to assess market fluctuations and long-term trends.
+- **Refine Outlier Detection:** Enhance outlier detection methods to ensure more accurate handling of extreme values, potentially improving model accuracy.
