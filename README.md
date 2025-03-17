@@ -1,89 +1,134 @@
-# bigquery-rental-analysis
-SQL queries for rental data analysis in BigQuery
+# 🏠 BigQuery Rental Market Analysis  
 
-## Introduction
+SQL queries for rental data analysis using **BigQuery**  
 
-The Guadalajara Metropolitan Area is a major urban region encompassing key municipalities such as Guadalajara, Zapopan, Tlajomulco de Zúñiga, and Tonalá. This dataset provides valuable insights into the rental market across different neighborhoods within these municipalities, considering key factors such as rental prices, property size, and the number of rooms and bathrooms in both houses and apartments.
+---
 
-It is important to note that the dataset is not evenly distributed across the four municipalities. While Zapopan and Guadalajara have a significant number of records (56.51% and 31.16%, respectively), Tlajomulco de Zúñiga (11.69%) and Tonalá (0.64%) are underrepresented. As a result, the analysis may not fully capture the rental market trends in these two municipalities. However, the available data can still provide a general idea of rental prices and trends in the region.
+## 📌 Introduction  
 
-## Business Problem
+The **Guadalajara Metropolitan Area** is one of Mexico’s most dynamic real estate markets, with significant variations in rental prices across **Guadalajara, Zapopan, Tlajomulco de Zúñiga, and Tonalá**.  
 
-Rental prices in the Guadalajara Metropolitan Area vary significantly across municipalities and neighborhoods, often leading to overpriced or underpriced listings. Without a clear understanding of how factors like area (m²), number of rooms, and number of bathrooms influence prices, it is difficult to recognize pricing patterns and regional differences.
+This project leverages **SQL** to analyze a **cleaned dataset** of rental properties, identifying key trends, price distributions, and anomalies across different municipalities and neighborhoods.  
 
-## Objective
+⚠ **Data Distribution:**  
+- **Zapopan (56.51%) & Guadalajara (31.16%)** → Well-represented  
+- **Tlajomulco (11.69%) & Tonalá (0.64%)** → Underrepresented  
 
-Through exploratory data analysis (EDA), this study aims to examine price distributions, correlations, and outliers to uncover trends in the rental market. Identifying these patterns can provide a clearer picture of how rental prices behave across different locations.
+Despite this imbalance, the dataset provides valuable insights into rental pricing patterns.  
 
-## Stakeholders
+---
 
-Real estate investors and tenants looking to understand the rental market dynamics in these municipalities to price properties more accurately, improve leasing strategies, and advise clients on potential rent prices based on data-driven analysis.
+## 🎯 Business Problem  
 
-## Key Questions
+Rental pricing can be inconsistent due to **regional variations, property characteristics, and listing anomalies**. Understanding how **property size (m²), number of rooms, and location** impact prices is **crucial** for:  
 
-- How do rental prices vary across different locations in the metropolitan area?
-- What factors influence them the most?
-- Are there significant differences in rental prices between neighborhoods?
-- Are there outliers in rental prices that could indicate anomalies or luxury listings?
+🏡 **Real estate investors** – Pricing properties competitively  
+📊 **Data-driven tenants** – Finding fair rental rates  
+💼 **Real estate agencies** – Improving pricing strategies  
 
-## Metrics
+---
 
-- Price range (min-max) by municipalities and neighborhood
-- Average rental price by municipalities
-- Average rental area (m²) by municipalities and neighborhood
-- Average number of rooms and bathrooms
-- Correlation: price vs area (m²), price vs number of rooms and bathrooms
-- ANOVA test: price vs neighborhood
-- Outliers in rental prices by municipalities and neighborhood
+## 🔍 Objectives  
 
-## Prepare Dataset
+Through **SQL-based exploratory analysis**, this project aims to:  
+✔ Identify **price distributions, correlations, and outliers**  
+✔ Determine **key factors influencing rental prices**  
+✔ Highlight **neighborhood-specific trends**  
 
-This dataset was collected in June 2024 by Cuauh Guerrero, Diego Ramos, and Javier Cerriteño from various websites that provide rental information, including Inmuebles24, Realtor.com, Propiedades.com, Point2Homes, and others. It contains rental data for the municipalities of Guadalajara, Zapopan, Tlajomulco de Zúñiga, and Tonalá.
+---
 
-This dataset was obtained from their published paper, "Exploring the Rental Market Dynamics of the Guadalajara Metropolitan Area" and it consists of 2,000 rows and 8 columns. Each row represents a rental property (house or apartment), and the columns capture details such as rental price, area, and the number of rooms and bathrooms.
+## ❓ Key Questions  
 
-### Numerical Columns (4):
+- 📍 How do **rental prices vary** across municipalities?  
+- 📏 What **property factors** impact pricing the most?  
+- 🏘 Are there **significant price differences** between neighborhoods?  
+- 🚩 Do **outliers** indicate anomalies or luxury listings?  
 
-- **Price**: Rental price in pesos
-- **No_rooms**: Number of rooms in the property
-- **No_bathrooms**: Number of bathrooms in the property
-- **Area**: Area of the property in square meters (m²)
+---
 
-### Categorical Columns (3):
+## 📊 Key Metrics  
 
-- **Address**: Neighborhood
-- **Colony**: Municipality (Guadalajara, Zapopan, Tlajomulco de Zúñiga, Tonalá)
-- **Type**: House or Apartment
+📌 **Price Analysis**  
+- 📈 **Min-Max Price Range** (municipality & neighborhood)  
+- 💰 **Average Rental Price** (municipality)  
 
-## Process Phase
+📌 **Property Characteristics**  
+- 📐 **Average Area (m²)** (municipality & neighborhood)  
+- 🏠 **Average Number of Rooms & Bathrooms**  
 
-For the dataset analysis, I will use **SQL** as it is an efficient tool for analyzing large datasets and extracting meaningful insightsto support data-driven decision-making.
+📌 **Statistical Insights**  
+- 🔗 **Correlation**: Price vs. Area (m²), Rooms, and Bathrooms  
+- 📊 **ANOVA Test**: Price vs. Neighborhood  
+- 🚩 **Outlier Detection**: Unusual rental prices  
 
-The process will follow these steps:
+---
 
-1. **Data Overview and Structure**  
-   - View Table Structure
-   - Overview of Total Rental Records, Municipalities, and Property Types
-   - Check for missing values
+## 🗂 Dataset Overview  
 
-2. **Outlier Detection**  
-   - Identify Outliers in Price and Area
+📅 **Collected:** June 2024  
+🔍 **Sources:** Inmuebles24, Realtor.com, Propiedades.com, Point2Homes  
 
-3. **Exploratory Data Analysis (EDA)**  
-   - Summary Statistics
-   - Most and Least Expensive Municipality by Property Type (House vs. Apartment)
-   - ANOVA Test
-   - Correlation Analysis
+📦 **Dataset Summary:**  
+- **📊 2,000 rows** | **📁 8 columns**  
+- Covers **Houses & Apartments**  
 
-## In this GitHub repository, you will find three main folders:
+🔢 **Numerical Columns**:  
+- **Price** – Rental price (MXN)  
+- **No_rooms** – Number of rooms  
+- **No_bathrooms** – Number of bathrooms  
+- **Area** – Property size (m²)  
 
-**Data:**
-   - This folder contains the raw data file, "_RentData.csv_," along with the cleaned data file, "_RentDC.csv_". The cleaned data was generated through analysis and data processing in R. To view the R analysis project, click this link:
-     
-**Queries:**
-   - This folder contains the SQL queries used for data analysis on the rental dataset. The queries are organized into separate subfolders for _houses_ and _departments_, each containing the relevant SQL code applied to analyze the respective property type.
+📝 **Categorical Columns**:  
+- **Address** – Neighborhood  
+- **Colony** – Municipality (Guadalajara, Zapopan, Tlajomulco, Tonalá)  
+- **Type** – House or Apartment  
 
-**Results:**
-   - This folder contains the results generated from running the SQL queries. All outputs are presented in tables, providing a clear and organized format that showcases the findings and insights from the analysis.
-     
-Feel free to explore both folders to understand the analysis process and the results derived from the rental data.
+---
+
+## ⚙️ SQL Analysis Process  
+
+This analysis is conducted using **BigQuery**, leveraging SQL for **data cleaning, processing, and statistical analysis**.  
+
+### 🔹 **Step 1: Data Overview**  
+✔ View Table Structure  
+✔ Count Rental Listings by Municipality & Property Type  
+✔ Check for Missing Values  
+
+### 🔹 **Step 2: Outlier Detection**  
+✔ Identify **extreme values** in Price & Area (m²)  
+
+### 🔹 **Step 3: Exploratory Data Analysis (EDA)**  
+📊 **Summary Statistics** – Mean, Median, and Standard Deviation  
+🏙 **Most & Least Expensive Municipality** (Houses vs. Apartments)  
+📈 **ANOVA Test** – Price Differences by Neighborhood  
+📊 **Correlation Analysis** – Price vs. Area (m²), Rooms & Bathrooms  
+
+---
+
+## 📁 Repository Structure  
+
+📂 **Data**  
+- Contains the **raw** dataset (`RentData.csv`) and the **cleaned** dataset (`RentDC.csv`).  
+- **The cleaned dataset was processed in R**. For R-based analysis, [click here](#).  
+
+📂 **Queries**  
+- Includes **SQL queries** used for analysis.  
+- Subfolders for **houses** and **apartments**, each containing the relevant SQL code.  
+
+📂 **Results**  
+- Contains **outputs from SQL queries**, showcasing findings in structured tables.  
+
+---
+
+## 🚀 Next Steps  
+
+🔹 **Expand dataset coverage** for Tlajomulco & Tonalá.  
+🔹 **Build a predictive model** to estimate rental prices.  
+🔹 **Compare rental trends over time** to track market shifts.  
+
+---
+
+## 📬 Contact  
+
+📧 Email: yanelirg@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ethelrios/
