@@ -118,7 +118,10 @@ This analysis is conducted using **BigQuery**, leveraging SQL for **data cleanin
 📂 **Results**  
 - Contains **outputs from SQL queries**, showcasing findings in structured tables.  
 
-
+📂 **Key Insights & Nextsteps**  
+- Highlights key trends and patterns in the rental market.
+- Provides actionable recommendations for data-driven decisions.
+- Defines next steps 
 ---
 
 ## 📬 Contact  
