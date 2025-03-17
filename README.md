@@ -109,7 +109,7 @@ This analysis is conducted using **BigQuery**, leveraging SQL for **data cleanin
 
 📂 **Data**  
 - Contains the **raw** dataset (`RentData.csv`) and the **cleaned** dataset (`RentDC.csv`).  
-- **The cleaned dataset was processed in R**. For R-based analysis, [click here](#).  
+- **The cleaned dataset was processed in R**. For R-based analysis, [https://github.com/ethel-rios/Exploring-Rental-Market-Trends-using-R](#).  
 
 📂 **Queries**  
 - Includes **SQL queries** used for analysis.  
