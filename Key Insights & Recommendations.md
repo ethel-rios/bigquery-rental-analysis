@@ -22,9 +22,8 @@ Rental prices show notable variation across the municipalities in the Guadalajar
 - **Average Price by Neighborhood:**  
    **Zapopan** and **Guadalajara** display significant price variation, with neighborhoods offering both high-end and more affordable properties, reflecting a diverse rental market. In contrast, **Tonalá** and **Tlajomulco** show more budget-friendly options with lower average rental prices and costs per m², indicating that **location** and **proximity to amenities** are crucial factors influencing prices.
 
-  <img src="https://github.com/user-attachments/assets/b7b98ecf-bb7c-4fd2-a88a-1da548c7898c" width="800" />
-<img src="https://github.com/user-attachments/assets/42001125-6817-448d-805c-b48df4e84c09" width="800" />
-
+ ![Price Houses](https://github.com/user-attachments/assets/b7b98ecf-bb7c-4fd2-a88a-1da548c7898c)  
+   ![Price Apartments](https://github.com/user-attachments/assets/42001125-6817-448d-805c-b48df4e84c09)
 
 ---
 
