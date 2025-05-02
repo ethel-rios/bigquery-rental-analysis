@@ -22,9 +22,9 @@ Despite this imbalance, the dataset provides valuable insights into rental prici
 
 Rental pricing can be inconsistent due to **regional variations, property characteristics, and listing anomalies**. Understanding how **property size (m²), number of rooms, and location** impact prices is **crucial** for:  
 
-🏡 **Real estate investors** – Pricing properties competitively  
-📊 **Data-driven tenants** – Finding fair rental rates  
-💼 **Real estate agencies** – Improving pricing strategies  
+**Real estate investors** – Pricing properties competitively  
+**Data-driven tenants** – Finding fair rental rates  
+**Real estate agencies** – Improving pricing strategies  
 
 ---
 
@@ -65,20 +65,20 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ## 🗂 Dataset Overview  
 
-📅 **Collected:** June 2024  
-🔍 **Sources:** Inmuebles24, Realtor.com, Propiedades.com, Point2Homes  
+**Collected:** June 2024  
+**Sources:** Inmuebles24, Realtor.com, Propiedades.com, Point2Homes  
 
-📦 **Dataset Summary:**  
-- **📊 2,000 rows** | **📁 8 columns**  
+**Dataset Summary:**  
+- **2,000 rows** | **8 columns**  
 - Covers **Houses & Apartments**  
 
-🔢 **Numerical Columns**:  
+**Numerical Columns**:  
 - **Price** – Rental price (MXN)  
 - **No_rooms** – Number of rooms  
 - **No_bathrooms** – Number of bathrooms  
 - **Area** – Property size (m²)  
 
-📝 **Categorical Columns**:  
+**Categorical Columns**:  
 - **Address** – Neighborhood  
 - **Colony** – Municipality (Guadalajara, Zapopan, Tlajomulco, Tonalá)  
 - **Type** – House or Apartment  
@@ -89,19 +89,19 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 This analysis is conducted using **BigQuery**, leveraging SQL for **data cleaning, processing, and statistical analysis**.  
 
-### 🔹 **Step 1: Data Overview**  
+### **Step 1: Data Overview**  
 ✔ View Table Structure  
 ✔ Count Rental Listings by Municipality & Property Type  
 ✔ Check for Missing Values  
 
-### 🔹 **Step 2: Outlier Detection**  
+### **Step 2: Outlier Detection**  
 ✔ Identify **extreme values** in Price & Area (m²)  
 
-### 🔹 **Step 3: Exploratory Data Analysis (EDA)**  
-📊 **Summary Statistics** – Mean, Median, and Standard Deviation  
-🏙 **Most & Least Expensive Municipality** (Houses vs. Apartments)  
-📈 **ANOVA Test** – Price Differences by Neighborhood  
-📊 **Correlation Analysis** – Price vs. Area (m²), Rooms & Bathrooms  
+### **Step 3: Exploratory Data Analysis (EDA)**  
+**Summary Statistics** – Mean, Median, and Standard Deviation  
+**Most & Least Expensive Municipality** (Houses vs. Apartments)  
+**ANOVA Test** – Price Differences by Neighborhood  
+**Correlation Analysis** – Price vs. Area (m²), Rooms & Bathrooms  
 
 ---
 
