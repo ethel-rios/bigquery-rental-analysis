@@ -1,10 +1,10 @@
-# 🏠 BigQuery Rental Market Analysis  
+# BigQuery Rental Market Analysis  
 
 SQL queries for rental data analysis using **BigQuery**  
 
 ---
 
-## 📌 Introduction  
+## Introduction  
 
 The **Guadalajara Metropolitan Area** is one of Mexico’s most dynamic real estate markets, with significant variations in rental prices across **Guadalajara, Zapopan, Tlajomulco de Zúñiga, and Tonalá**.  
 
@@ -18,7 +18,7 @@ Despite this imbalance, the dataset provides valuable insights into rental prici
 
 ---
 
-## 🎯 Business Problem  
+## Business Problem  
 
 Rental pricing can be inconsistent due to **regional variations, property characteristics, and listing anomalies**. Understanding how **property size (m²), number of rooms, and location** impact prices is **crucial** for:  
 
@@ -28,7 +28,7 @@ Rental pricing can be inconsistent due to **regional variations, property charac
 
 ---
 
-## 🔍 Objectives  
+## Objectives  
 
 Through **SQL-based exploratory analysis**, this project aims to:  
 ✔ Identify **price distributions, correlations, and outliers**  
@@ -37,7 +37,7 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ---
 
-## ❓ Key Questions  
+## Key Questions  
 
 - How do **rental prices vary** across municipalities?  
 - What **property factors** impact pricing the most?  
@@ -46,7 +46,7 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ---
 
-## 📊 Key Metrics  
+## Key Metrics  
 
 📌 **Price Analysis**  
 -  **Min-Max Price Range** (municipality & neighborhood)  
@@ -85,7 +85,7 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ---
 
-## ⚙️ SQL Analysis Process  
+## SQL Analysis Process  
 
 This analysis is conducted using **BigQuery**, leveraging SQL for **data cleaning, processing, and statistical analysis**.  
 
