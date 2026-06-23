@@ -63,7 +63,7 @@ Through **SQL-based exploratory analysis**, this project aims to:
 
 ---
 
-## 🗂 Dataset Overview  
+## Dataset Overview  
 
 **Collected:** June 2024  
 **Sources:** Inmuebles24, Realtor.com, Propiedades.com, Point2Homes  
@@ -105,7 +105,7 @@ This analysis is conducted using **BigQuery**, leveraging SQL for **data cleanin
 
 ---
 
-## 📁 Repository Structure  
+## Repository Structure  
 
 📂 **Data**  
 - Contains the **raw** dataset (`RentData.csv`) and the **cleaned** dataset (`RentDC.csv`).  
@@ -124,7 +124,7 @@ This analysis is conducted using **BigQuery**, leveraging SQL for **data cleanin
 - Defines next steps 
 ---
 
-## 📬 Contact  
+## Contact  
 
 📧 Email: yanelirg@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ethelrios/
